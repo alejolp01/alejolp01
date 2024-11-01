@@ -1,9 +1,9 @@
-<h1 align="center">Hi 👋, I'm Alejandro López Peña</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h1 align="center">Hi 👋, Me Alejandro López Peña</h1>
+<h3 align="center">soy un ingeniero apasionado por la programación y la tecnología</h3>
 
-- 💬 Ask me about **python, excel**
+- 💬Preguntame acerca de **python**
 
-- 📫 How to reach me **alejolp390@gmail.com**
+- 📫 Correo: **alejolp390@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
