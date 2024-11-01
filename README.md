@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, Me Alejandro López Peña</h1>
-<h3 align="center">soy un ingeniero apasionado por la programación y la tecnología</h3>
+<h1 align="center">Hola 👋, Me llamo Alejandro López Peña</h1>
+<h3 align="center">Soy un ingeniero apasionado por la programación y la tecnología</h3>
 
 - 💬Preguntame acerca de **python**
 
