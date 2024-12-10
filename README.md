@@ -1,7 +1,7 @@
 <h1 align="center">Hola 👋, me llamo Alejandro López Peña</h1>
 <h3 align="center">Soy un ingeniero apasionado por la programación y la tecnología</h3>
 
-- 💬 Pregúntame acerca de **Python** y **SQL**
+- 💬 Pregúntame acerca de **Python**, **SQL**, **Excel**, **Power BI**
 
 - 📫 Correo: **alejolp390@gmail.com**
 
@@ -29,4 +29,7 @@
   <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> 
     <img src="https://upload.wikimedia.org/wikipedia/commons/e/ed/Pandas_logo.svg" alt="pandas" width="40" height="40"/> 
   </a> 
+  <a href="https://powerbi.microsoft.com/" target="_blank" rel="noreferrer"> 
+    <img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/Power_bi_logo_black.svg" alt="powerbi" width="40" height="40"/> 
+  </a>
 </p>
