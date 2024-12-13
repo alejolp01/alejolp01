@@ -1,7 +1,7 @@
 <h1 align="center">Hola 👋, me llamo Alejandro López Peña</h1>
 <h3 align="center">Soy un ingeniero apasionado por la programación y la tecnología</h3>
 
-- 💬 Pregúntame acerca de **Python (Pandas)**, **SQL**, **Excel**, **Power BI**
+- 💬 Pregúntame acerca de **Python (Pandas, NumPy)**, **SQL**, **Excel**, **Power BI**
 
 - 📫 Correo: **alejolp390@gmail.com**
 
