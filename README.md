@@ -1,7 +1,7 @@
 <h1 align="center">Hola 👋, me llamo Alejandro López Peña</h1>
 <h3 align="center">Soy un ingeniero apasionado por la programación y la tecnología</h3>
 
-- 💬 Pregúntame acerca de **Python (Pandas, NumPy)**, **SQL**, **Excel**, **Power BI**
+- 💬 Pregúntame acerca de **Python (Pandas, NumPy, Matplotlib)**, **SQL**, **Excel**, **Power BI**
 
 - 📫 Correo: **alejolp390@gmail.com**
 
@@ -31,5 +31,8 @@
   </a> 
   <a href="https://numpy.org/" target="_blank" rel="noreferrer"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg" alt="numpy" width="40" height="40"/> 
+  </a>
+  <a href="https://matplotlib.org/" target="_blank" rel="noreferrer">
+    <img src="https://matplotlib.org/stable/_images/sphx_glr_logos_003.png" alt="matplotlib" width="40" height="40"/>
   </a>
 </p>
