@@ -33,6 +33,7 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg" alt="numpy" width="40" height="40"/> 
   </a>
   <a href="https://matplotlib.org/" target="_blank" rel="noreferrer">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/0/01/Matplotlib_logo.svg" alt="matplotlib" width="40" height="40"/>
+    <img src="https://upload.wikimedia.org/wikipedia/commons/6/64/Matplotlib_logo.svg" alt="matplotlib" width="40" height="40"/>
   </a>
 </p>
+
